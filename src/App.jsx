@@ -77,7 +77,7 @@ function App() {
 <div
   className="relative min-h-screen flex items-center justify-center overflow-hidden bg-cover bg-center px-6"
   style={{
-    backgroundImage: "url('/bg.jpg')",
+    backgroundImage: "url('src/bg.jpg')",
   }}
 >
 
@@ -155,7 +155,7 @@ function App() {
         </a>
 
         <a
-          href="https://github.com/Akhil994"
+          href="https://github.com/Akhil9944"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-gray-900 hover:bg-purple-500 p-4 rounded-xl transition duration-300"
@@ -202,7 +202,7 @@ function App() {
       {/* Image */}
 
       <img
-        src="me.jpeg"
+        src="/me.jpeg"
         alt="Akhil"
         className="relative w-[350px] h-[350px] md:w-[450px] md:h-[450px] object-cover rounded-full border-4 border-blue-500 shadow-[0_0_50px_rgba(59,130,246,0.7)]"
       />
